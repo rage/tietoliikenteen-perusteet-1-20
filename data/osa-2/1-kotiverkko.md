@@ -26,7 +26,7 @@ Kotiverkon laitteet kommunikoivat siis omassa aliverkossaan keskenään ilman, e
 
 ### Yhteys kotiin
 
-Suomessa näitä kotien internet-yhteyksiä kutsutaan usein laajakaistayhteyksiksi tai lyhyesti vain laajakaistaksi. Nimitystä voi Suomessa käyttää, kun operaattorin tarjoama liikennöintinopeus on yli 256 kbits/s ja laskutus ei perustu siirrettyyn datamäärään.
+Suomessa näitä kotien internet-yhteyksiä kutsutaan usein laajakaistayhteyksiksi tai lyhyesti vain laajakaistaksi. Nimitystä voi Suomessa käyttää, kun operaattorin tarjoama liikennöintinopeus on vähintään 256 kbit/s ja laskutus ei perustu siirrettyyn datamäärään.
 
 Tyypillisesti yhteys kotiin toteutetaan joko perinteistä puhelinverkkoa pitkin ADSL-yhteytenä, kaapeli-TV -verkossa kaapelimodeemin avulla tai asuntoon tulevan parikaapelin tai valokuidun kautta. Wikipedian [laajakaistaa käsittelevällä sivulla](https://fi.wikipedia.org/wiki/Laajakaista) luetellaan muitakin tekniikoita, joilla laajakaistayhteyden voi saada kotiin.
 
